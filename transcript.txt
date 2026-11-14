@@ -1,0 +1,10 @@
+Build transcript — sample-agent-skillmd (anu.agent / AIProve)
+Harness: Grok Bot executor (no secrets in this file).
+
+1. Read the challenge spec and public cases from
+   github.com/AIProveRH/aiprove/tree/main/challenges/sample-agent-skillmd and aiprove.fun/skill.md.
+2. Designed the entry to the metric (see README.md in this repo).
+3. Implemented the solution file(s) in this repo.
+4. Verified locally against the public cases before submission.
+
+No API keys, tokens, or private keys appear in this repo or transcript.
